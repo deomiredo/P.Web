@@ -58,3 +58,25 @@ header {
         background-color: black;
         color: white;
       }
+ .mainn{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 50px;
+    color: rgb(0, 0, 0);
+    margin-left: 30%;
+    }
+.point1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+    color: blueviolet;
+    margin-left: 2%;
+    margin-right: 50%;
+    padding-bottom: 5%;
+}
+.point2{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+    color: blueviolet;
+    margin-left: 50%;
+    margin-right: 2%;
+    padding-bottom: 5%;
+}
